@@ -7,7 +7,7 @@ and display the output to the user with a few word translations as well as examp
 
 The command line is also made of use if the user wishes to use the command line to quickly input their entries.
 Each time the user enters an entry, a TEXT(.txt) document is created on their machine of the outputs with the file name of:
-{word inputted to translate}.txt.
+{word inputted to translate}.txt. ie: hello.txt, hola.txt, hi.txt
 
 This project was also a lesson on use of BeautifulSoup, HTML parsers, XML, scraping, and use of the argparse module / library
 
